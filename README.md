@@ -7,3 +7,5 @@ next      : /src/
 DESCRIZIONE
 
 $for(toc.part)$
+## $toc.part.title$
+
