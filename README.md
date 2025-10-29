@@ -6,6 +6,6 @@ next      : /src/ciao.md
 
 DESCRIZIONE
 
-$for(toc.part)$
-## $toc.part.title$
+$for(/data/toc.part)$
+## $/data/toc.part.title$
 
