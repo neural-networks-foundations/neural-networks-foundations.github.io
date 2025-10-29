@@ -1,7 +1,7 @@
 ---
 title     : Table of Contents
 permalink : /
-next      : /src/
+next      : /src/ciao.md
 ---
 
 DESCRIZIONE
