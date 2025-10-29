@@ -1,7 +1,7 @@
 ---
 title     : Table of Contents
 permalink : /
-next      : /Dedication/
+next      : /src/
 ---
 
 DESCRIZIONE
