@@ -1,3 +1,9 @@
-# WELCOME!
+---
+title     : Table of Contents
+permalink : /
+next      : /Dedication/
+---
 
-HELLO WORLD!
+DESCRIZIONE
+
+$for(toc.part)$
